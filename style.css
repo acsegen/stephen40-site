@@ -97,7 +97,7 @@ section p {
 .rsvp {
   /* background-image: url('images/1.jpg'); */
   /* background-size: cover; */
-  background-color: #ECC7CD;
+  background-color: rgb (236,199,205); /* pink /*
   color: #000;
 }
 .rsvp h1 {
@@ -108,35 +108,6 @@ section p {
   .rsvp h1 {
     font-size: 3em;
     line-height: 1.25;
-  }
-}
-
-/* Stay
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.stay  {
-  /* background-image: url('images/1.jpg'); */
-  /* background-size: cover; */
-}
-.stay img {
-  margin-bottom: 2em;
-}
-.stay p {
-  font-size: .95em;
-  color: grey;
-  /* text-align: left; */
-}
-.stay .small {
-  font-size: .875em;
-}
-
-@media (min-width: 550px) {
-  .stay p {
-    text-align: left;
-  }
-  .stay h2 {
-    font-size: .875em;
-    font-weight: 600;
-    text-align: left;
   }
 }
 
