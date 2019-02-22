@@ -122,8 +122,9 @@ section p {
 /* Photos
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .photos  {
-  background-image: url('images/2.jpg');
-  padding-bottom: 100%;
+  padding: 8em 0;
+  background-color: #ffffff;
+  background-image: url('images/Bkg.png');
 }
 
 @media (min-width: 550px) {
