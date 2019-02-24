@@ -61,6 +61,7 @@ section p {
 .intro {
   padding: 8em 0;
   background-color: #ffffff;
+  background-size: 800px 400px;
   background-image: url('images/bkg2.png');
 }
 .intro h1,
