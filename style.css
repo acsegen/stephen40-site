@@ -107,6 +107,13 @@ section p {
 }
 .details h1 {
   font-size: 16em;
+  font-color: #E04E39;
+}
+.details h2 {
+  font-color: #946037;
+}
+.details h3 {
+  font-color: #E56A54;
 }
 
 @media (min-width: 550px) {
