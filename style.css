@@ -94,14 +94,27 @@ section p {
   background-color: #ECC7CD;
 }
 .details h1 {
-  font-size: 16em;
+  font-family: "Mercury Text G1 A", "Mercury Text G1 B";
+  font-style: italic;
   font-color: #E04E39;
+  font-weight: 700;
+  font-size: 22em;
 }
 .details h2 {
-  font-color: #946037;
+  font-size: 1.2em;
+  font-family: "Hoefler Text A", "Hoefler Text B";
+  font-style: normal;
+  font-weight: 400;
+  font-color: #FFFFFF;
+  margin-bottom: .25em;
 }
+
 .details h3 {
+  font-size: .875em;
+  font-family: "Landmark Regular A", "Landmark Regular B";
+  font-style: normal;
   font-color: #E56A54;
+  font-weight: 400;
 }
 
 @media (min-width: 550px) {
