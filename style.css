@@ -125,14 +125,3 @@ section p {
   background-color: #ffffff;
   background-image: url('images/bkg2.png');
 }
-
-.circle  {
-  width: 500px;
-  height: 500px;
-  border-radius: 50%;
-  font-size: 50px;
-  color: #E5554F;
-  line-height: 500px;
-  text-align: center;
-  background: #FBDB65;
-}
