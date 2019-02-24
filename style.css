@@ -63,21 +63,9 @@ section p {
   background-size: 800px 400px;
   background-image: url('images/bkg2.png');
 }
-.intro h1,
-.intro h2,
 .intro h3 {
-  color: #E56A54;
-  /* margin-bottom: .25em; */
-}
-.intro h1 {
-  /* margin-bottom: .125em; */
-}
-.intro h3 {
-  margin-bottom: .25em;
-}
-.intro p {
-  color: #946037;
-  font-size: .875em;
+  font-color: #E56A54;
+  font-size: 3em;
 }
 
 @media (min-width: 550px) {
