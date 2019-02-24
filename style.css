@@ -106,7 +106,7 @@ section p {
   background-color: #ECC7CD;
 }
 .details h1 {
-  font-size: 2em;
+  font-size: 16em;
 }
 
 @media (min-width: 550px) {
@@ -123,3 +123,15 @@ section p {
   background-color: #ffffff;
   background-image: url('images/bkg2.png');
 }
+
+.circle  {
+  width: 100px;
+  height: 500px;
+  border-radius: 50%;
+  font-size: 50px;
+  color: #E5554F;
+  line-height: 500px;
+  text-align: center;
+  background: #FBDB65;
+}
+
