@@ -18,7 +18,7 @@ section h1 {
   font-size: 3.25em;
 }
 section h2 {
-  font-size: .875em;
+  font-size: 1.2em;
   font-family: "Hoefler Text A", "Hoefler Text B";
   font-style: normal;
   font-weight: 400;
@@ -67,7 +67,7 @@ section p {
 .intro h1,
 .intro h2,
 .intro h3 {
-  color: #946037;
+  color: #E56A54;
   /* margin-bottom: .25em; */
 }
 .intro h1 {
