@@ -1,12 +1,12 @@
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 section {
-  padding: 8rem 0 7rem;
+  /* padding: 6rem 0 7rem; */
   text-align: center;
 }
 
 section {
-  padding: 6em 4em;
+  padding: 6em 4em 2em;
   background-size: cover;
   background-position: center;
 }
@@ -126,7 +126,7 @@ section p {
 }
 
 .circle  {
-  width: 100px;
+  width: 500px;
   height: 500px;
   border-radius: 50%;
   font-size: 50px;
@@ -135,4 +135,3 @@ section p {
   text-align: center;
   background: #FBDB65;
 }
-
