@@ -100,21 +100,18 @@ section p {
   }
 }
 
-/* RSVP
+/* Details
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.rsvp {
-  /* background-image: url('images/1.jpg'); */
-  /* background-size: cover; */
-  background-color: rgb (236, 199, 205); /* pink /*
-  color: #000;
+.details {
+  background-color: #ECC7CD;
 }
-.rsvp h1 {
+.details h1 {
   font-size: 2em;
 }
 
 @media (min-width: 550px) {
-  .rsvp h1 {
-    font-size: 3em;
+  .details h1 {
+    font-size: 1.2em;
     line-height: 1.25;
   }
 }
