@@ -55,13 +55,14 @@ section p {
 .details {
   background-color: #ECC7CD;
 }
+  
 .details h1 {
   font-family: "Mercury Text G1 A", "Mercury Text G1 B";
   font-style: italic;
   color: #E04E39;
   font-weight: 700;
-  font-size: 2.5em;
-  margin-bottom: .5em;
+  font-size: 3.5em;
+  margin-bottom: 1.5em;
 }
   
 .details h2 {
@@ -70,7 +71,7 @@ section p {
   font-style: italic;
   color: #E04E39;
   font-weight: 400;
-  margin-bottom: .5em;
+  margin-bottom: 1.5em;
 }
 
 .details h3 {
