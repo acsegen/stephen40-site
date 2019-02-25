@@ -44,7 +44,7 @@ section p {
 .intro h3 {
   color: #6D4F47;
   font-size: 2em;
-  text-shadow: 2px 2px 5px #6D4F47;
+  text-shadow: 1px 1px 4px #ECC7CD;
 }
 
 @media (min-width: 550px) {
