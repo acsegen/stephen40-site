@@ -60,7 +60,8 @@ section p {
   font-style: italic;
   color: #E04E39;
   font-weight: 700;
-  font-size: 25em;
+  font-size: 2.5em;
+  margin-bottom: .5em;
 }
   
 .details h2 {
@@ -82,18 +83,11 @@ section p {
 }
   
 .details p {
-  font-size: .5em;
+  font-size: 1.5em;
   font-family: "Hoefler Text A", "Hoefler Text B";
   font-style: italic;
   font-weight: 100;
-  color: #FFFFFF;
-}
-
-@media (min-width: 550px) {
-  .details h1 {
-    font-size: 1.825em;
-    line-height: 1.25;
-  }
+  color: #E56A54;
 }
 
 /* Footers
