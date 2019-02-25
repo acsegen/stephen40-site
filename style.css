@@ -54,20 +54,20 @@ section h3 {
   font-style: italic;
   color: #E04E39;
   font-weight: 700;
-  font-size: 15em;
+  font-size: 25em;
 }
   
 .details h2 {
-  font-size: 5em;
+  font-size: 2.5em;
   font-family: "Mercury Text G1 A", "Mercury Text G1 B";
   font-style: italic;
+  color: #E04E39;
   font-weight: 400;
-  color: #FFFFFF;
   margin-bottom: .5em;
 }
 
 .details h3 {
-  font-size: 1.5em;
+  font-size: 1.75em;
   font-family: "Landmark Regular A", "Landmark Regular B";
   font-style: normal;
   color: #E56A54;
