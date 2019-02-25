@@ -55,14 +55,7 @@ section h3 {
 
 .intro h3 {
   color: #6D4F47;
-  font-size: 2.25em;
-}
-
-.intro p {
-  font-size: 1em;
-  font-family: "Hoefler Text A", "Hoefler Text B";
-  font-style: italic;
-  font-weight: 400;
+  font-size: 2em;
 }
 
 @media (min-width: 550px) {
@@ -78,7 +71,7 @@ section h3 {
 .details h1 {
   font-family: "Mercury Text G1 A", "Mercury Text G1 B";
   font-style: italic;
-  font-color: #E04E39;
+  color: #E04E39;
   font-weight: 700;
   font-size: 10em;
 }
@@ -88,7 +81,7 @@ section h3 {
   font-family: "Hoefler Text A", "Hoefler Text B";
   font-style: normal;
   font-weight: 400;
-  font-color: #FFFFFF;
+  color: #FFFFFF;
   margin-bottom: .5em;
 }
 
@@ -96,9 +89,17 @@ section h3 {
   font-size: 1.5em;
   font-family: "Landmark Regular A", "Landmark Regular B";
   font-style: normal;
-  font-color: #E56A54;
+  color: #E56A54;
   font-weight: 400;
-  margin-bottom: .5em;
+  margin-bottom: 1.5em;
+}
+  
+.details p {
+  font-size: 1em;
+  font-family: "Hoefler Text A", "Hoefler Text B";
+  font-style: italic;
+  font-weight: 400;
+  color: #FFFFFF;
 }
 
 @media (min-width: 550px) {
