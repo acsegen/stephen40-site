@@ -27,12 +27,6 @@ section h3 {
   margin-bottom: 2.5em;
 }
 
-section p {
-  font-family: "Hoefler Text A", "Hoefler Text B";
-  font-style: italic;
-  font-weight: 400;
-}
-
 @media (min-width: 550px) {
   section h1,
   section h2 {
@@ -62,6 +56,13 @@ section p {
 .intro h3 {
   color: #6D4F47;
   font-size: 2.25em;
+}
+
+.intro p {
+  font-size: 1em;
+  font-family: "Hoefler Text A", "Hoefler Text B";
+  font-style: italic;
+  font-weight: 400;
 }
 
 @media (min-width: 550px) {
