@@ -25,6 +25,12 @@ section h3 {
   font-weight: 400;
 }
 
+section p {
+  font-family: "Hoefler Text A", "Hoefler Text B";
+  font-style: italic;
+  font-weight: 100;
+}
+
 /* Intro
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .intro {
