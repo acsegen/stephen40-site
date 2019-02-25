@@ -11,7 +11,7 @@ section h1 {
   font-family: "Mercury Text G1 A", "Mercury Text G1 B";
   font-style: italic;
   font-weight: 700;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 section h2 {
@@ -42,9 +42,9 @@ section p {
 }
 
 .intro h3 {
-  color: #E04E39;
+  color: #6D4F47;
   font-size: 1.75em;
-  text-shadow: 2px 2px 2px #E04E39;
+  text-shadow: 2px 2px 2px #ffffff;
 }
 
 @media (min-width: 550px) {
