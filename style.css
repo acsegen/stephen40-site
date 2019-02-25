@@ -42,7 +42,7 @@ section p {
 
 .intro h3 {
   color: #6D4F47;
-  font-size: 2em;
+  font-size: 1.75em;
   letter-spacing: 2px;
   text-shadow: 2px 2px 4px #ECC7CD;
 }
@@ -77,7 +77,7 @@ section p {
 }
   
 .details p {
-  font-size: 1em;
+  font-size: 1.5em;
   color: #6D4F47;
 }
 
