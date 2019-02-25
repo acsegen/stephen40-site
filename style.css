@@ -17,31 +17,12 @@ section h2 {
   font-family: "Hoefler Text A", "Hoefler Text B";
   font-style: normal;
   font-weight: 800;
-  margin-bottom: 3.5em;
 }
 
 section h3 {
   font-family: "Landmark Regular A", "Landmark Regular B";
   font-style: normal;
   font-weight: 400;
-  margin-bottom: 2.5em;
-}
-
-@media (min-width: 550px) {
-  section h1,
-  section h2 {
-    font-size: 6em;
-  }
-  section h1 {
-    line-height: .925;
-  }
-  section h2 {
-    font-size: 1.25em;
-    font-weight: 400;
-  }
-  section h3 {
-    font-size: 1.25em;
-  }
 }
 
 /* Intro
