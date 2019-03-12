@@ -61,7 +61,7 @@ section p {
 .details h1 {
   font-size: 3em;
   color: #E04E39;
-  margin-top: .75em
+  margin-top: .75em;
   margin-bottom: .75em;
 }
   
@@ -81,6 +81,39 @@ section p {
   font-size: 1.25em;
   color: #6D4F47;
 }
+  
+/* Agenda
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.agenda {
+  background-color: #6D4F47;
+}
+
+.agenda h1 {
+  font-size: 1em;
+  color: #E04E39;
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+.agenda h2 {
+  font-size: .25em;
+  color: #6D4F47;
+  margin-bottom: 2em;
+}
+
+.agenda h3 {
+  font-size: 1.75em;
+  color: #E04E39;
+  margin-bottom: .75em;
+}
+
+.agenda p {
+  font-size: 1.25em;
+  letter-spacing: 1px;
+  color: #E04E39;
+  margin-bottom: 4em;
+}
+
 
 /* Footers
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
