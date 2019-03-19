@@ -68,7 +68,6 @@ section p {
 
 .details h2 {
   font-size: 1.75em;
-  line-height: .5em
   color: #E04E39;
   margin-top: .75em;
   margin-bottom: 1.5em;
@@ -96,6 +95,7 @@ section p {
 
 .agenda h2 {
   font-size: 1.75em;
+  line-height: .5em;
   letter-spacing: .25px;
   color: #6D4F47;
   margin-bottom: 2em;
