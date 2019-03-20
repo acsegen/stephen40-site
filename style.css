@@ -84,6 +84,7 @@ section p {
 .agenda {
   background-color: #F4C3CB;
   padding-top: .25em;
+  margin-bottom: .5em;
 }
 
 .agenda h1 {
